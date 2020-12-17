@@ -1,0 +1,13 @@
+C:\Users\22NonatoTrejoJ\source\repos\Simple Payroll Project\Simple Payroll Project\obj\Debug\netcoreapp3.1\Simple Payroll Project.csprojAssemblyReference.cache
+C:\Users\22NonatoTrejoJ\source\repos\Simple Payroll Project\Simple Payroll Project\obj\Debug\netcoreapp3.1\Simple Payroll Project.AssemblyInfoInputs.cache
+C:\Users\22NonatoTrejoJ\source\repos\Simple Payroll Project\Simple Payroll Project\obj\Debug\netcoreapp3.1\Simple Payroll Project.AssemblyInfo.cs
+C:\Users\22NonatoTrejoJ\source\repos\Simple Payroll Project\Simple Payroll Project\obj\Debug\netcoreapp3.1\Simple Payroll Project.csproj.CoreCompileInputs.cache
+C:\Users\22NonatoTrejoJ\source\repos\Simple Payroll Project\Simple Payroll Project\bin\Debug\netcoreapp3.1\Simple Payroll Project.exe
+C:\Users\22NonatoTrejoJ\source\repos\Simple Payroll Project\Simple Payroll Project\bin\Debug\netcoreapp3.1\Simple Payroll Project.deps.json
+C:\Users\22NonatoTrejoJ\source\repos\Simple Payroll Project\Simple Payroll Project\bin\Debug\netcoreapp3.1\Simple Payroll Project.runtimeconfig.json
+C:\Users\22NonatoTrejoJ\source\repos\Simple Payroll Project\Simple Payroll Project\bin\Debug\netcoreapp3.1\Simple Payroll Project.runtimeconfig.dev.json
+C:\Users\22NonatoTrejoJ\source\repos\Simple Payroll Project\Simple Payroll Project\bin\Debug\netcoreapp3.1\Simple Payroll Project.dll
+C:\Users\22NonatoTrejoJ\source\repos\Simple Payroll Project\Simple Payroll Project\bin\Debug\netcoreapp3.1\Simple Payroll Project.pdb
+C:\Users\22NonatoTrejoJ\source\repos\Simple Payroll Project\Simple Payroll Project\obj\Debug\netcoreapp3.1\Simple Payroll Project.dll
+C:\Users\22NonatoTrejoJ\source\repos\Simple Payroll Project\Simple Payroll Project\obj\Debug\netcoreapp3.1\Simple Payroll Project.pdb
+C:\Users\22NonatoTrejoJ\source\repos\Simple Payroll Project\Simple Payroll Project\obj\Debug\netcoreapp3.1\Simple Payroll Project.genruntimeconfig.cache
